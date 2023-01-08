@@ -1,0 +1,12 @@
+#content {
+    border: 1px solid;
+    margin:30px;
+    padding:25px;
+    color:white;
+    border:solid;
+    background-color:green;
+    cursor:pointer;
+}
+#content.makeColored {
+    background-color:rgb(249, 253, 6);
+}

@@ -1,0 +1,12 @@
+#boxshadow 
+{     
+border: 3px solid rgb(108, 252, 12);
+box-shadow: 5px 6px rgb(27, 145, 3); 
+}
+
+.designDiv {
+background-color: rgb(255, 248, 255);
+}
+.boldParagraph {
+    font-weight: bold;
+}
